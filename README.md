@@ -1,4 +1,4 @@
-![stats graph](https://raw.githubusercontent.com/m8bitdev/m8bitdev/stats-output/stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m8bitdev&show_icons=true)
 
 ###
 
