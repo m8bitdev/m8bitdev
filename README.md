@@ -1,10 +1,9 @@
-<h2 align="center">エムハチ</h2>
+<h1 align="center">エムハチ</h1>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/languages-output/languages.svg" height="150" alt="languages graph"  />
+![stats graph](https://raw.githubusercontent.com/m8bitdev/m8bitdev/stats-output/stats.svg)
 </div>
 
 ###
@@ -46,11 +45,5 @@
     <img src="https://img.shields.io/static/v1?message=@m8bit_dev&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
