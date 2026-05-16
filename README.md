@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m8bitdev&show_icons=true)
+![Logo](https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png)
 
 ###
 
