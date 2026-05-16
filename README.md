@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img height="120" src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png"  />
-    <img height="160" src="https://i.pinimg.com/736x/ab/34/3e/ab343ec46a38f72b9ce6bd268de6879a.jpg"  />
+<div style="display: flex; align-items: center;">
+    <img height="120" src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png" />
+    <div style="flex: 1;"></div>
+    <img height="160" src="https://i.pinimg.com/736x/ab/34/3e/ab343ec46a38f72b9ce6bd268de6879a.jpg" />
 </div>
 
 
