@@ -1,14 +1,8 @@
 <div align="center">
-  <img height="120" src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png"  />
+    <img height="120" src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png"  />
+    <img height="160" src="https://i.pinimg.com/736x/ab/34/3e/ab343ec46a38f72b9ce6bd268de6879a.jpg"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="160" src="https://i.pinimg.com/736x/ab/34/3e/ab343ec46a38f72b9ce6bd268de6879a.jpg"  />
-</div>
 
 ###
 
