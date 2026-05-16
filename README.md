@@ -1,4 +1,6 @@
-![Logo](https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png)
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/m8bitdev/m8bitdev/refs/heads/main/public/logo.png"  />
+</div>
 
 ###
 
